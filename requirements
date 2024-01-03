@@ -25,3 +25,25 @@ viii. What was the problem?
 _______________________________________________________________________________________
  -------------------------------->solution<------------------------------------------ 
 _______________________________________________________________________________________
+
+Per the requirement pc0 has been configured corretly. 
+Therefore to troubleshoot we recreate the problem by pinging a a working computer from a non working one.
+In this case laptop0 cannot ping pc0
+Possible questions 
+CDM problem meaning 
+1)is it a configuration problem
+is it a corrupt system 
+is the Ip Stack good 
+Have we been attacked by a malware 
+2)Is it a physical problem 
+i.e 
+is the cable working
+is the nic not working 
+is it the port on the switch  
+
+to check the problem 
+>ipconfig /all 
+and compare to the working system with the correct configuration 
+hint 
+In case of laptop0 everything except the ip_address is incorrect or not configured properly.
+The third octect number is 2 instead of 1
