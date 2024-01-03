@@ -1,0 +1,23 @@
+ PC0, PC2 and server0 have been configured correctly and are functioning great in the network but laptop0, PC1 and PC3 have been reported as having connectivity issues. 
+
+Troubleshoot and fix the problems so all affected PCs can ping all working PCs using their IP addresses and Hostnames.
+
+ Use the as a guide;
+
+ i. Can laptop0 ping the IP and Hostnames of PC0 and PC2? If not, then troubleshoot
+
+What was the problem?
+
+ iii. How did you fix it?
+
+ iv. Can PC1 ping the IP and Hostnames of PC0 and PC2? If not then troubleshoot
+
+ v. What was the problem?
+
+ vi. How did you fix it?
+
+ vii. Can PC3 ping the IP and Hostnames of PC2 and PC0? If not then troubleshoot
+
+viii. What was the problem?
+
+ ix. How did you fix it?
